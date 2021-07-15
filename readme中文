@@ -1,0 +1,2 @@
+LWJGL 是一个 Java 库，支持跨平台访问流行的原生 API，这些 API 在图形（OpenGL、Vulkan）、音频 (OpenAL)、
+并行计算（OpenCL、CUDA）和 XR（OpenVR、LibOVR）应用程序的开发中非常有用。
